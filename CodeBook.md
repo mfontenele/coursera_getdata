@@ -35,6 +35,6 @@ Detailed information on these types can be found in the [original dataset code b
 
 ### average Column
 
-This floating point column holds the average of the measurements for a given subject, activiy and measurement.
+This floating point column holds the average of the measurements for a given subject, activity and measurement.
 
 The unit of the measurement is the same as for the correspondent column in the source dataset and can be found in the code book linked above.
